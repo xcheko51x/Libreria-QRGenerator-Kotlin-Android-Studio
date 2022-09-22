@@ -12,7 +12,6 @@ dependencyResolutionManagement {
 
         maven { url 'https://jitpack.io' }
     }
-}
 
 build.gradle (Module)
 dependencies {
